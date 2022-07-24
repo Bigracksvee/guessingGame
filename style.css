@@ -1,0 +1,7 @@
+#container{
+    background-color: blue;
+    border-radius: 8px;
+    margin: 2rem auto;
+    max-width: 1000px;
+    padding: 1rem;
+}
